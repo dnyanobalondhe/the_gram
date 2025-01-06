@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d265e56e.css",
-    "main.js": "/static/js/main.00b85344.js",
-    "static/media/LoginForm.png": "/static/media/LoginForm.caaea4ac95e3ce358c45.png",
+    "main.js": "/static/js/main.4c2fd5ec.js",
+    "static/media/LoginForm.png": "/static/media/LoginForm.b022a63df61348f424e3.png",
+    "static/media/formLogo.png": "/static/media/formLogo.f5e37cc70eeea6de770e.png",
     "static/media/emojis.svg": "/static/media/emojis.97c6f7debd3adbde7f0219848db0cdf0.svg",
     "static/media/photo-heart.svg": "/static/media/photo-heart.a12b2c1b01760d8b35196c9e72e7b513.svg",
     "static/media/like.svg": "/static/media/like.db15757bb4193b179f43b4dccd4a985a.svg",
@@ -25,10 +26,10 @@
     "static/media/share.svg": "/static/media/share.e6a32571060f124ef9808401e04d6742.svg",
     "static/media/save.svg": "/static/media/save.19cf77519e4d9004e47378b5d3a456a3.svg",
     "main.d265e56e.css.map": "/static/css/main.d265e56e.css.map",
-    "main.00b85344.js.map": "/static/js/main.00b85344.js.map"
+    "main.4c2fd5ec.js.map": "/static/js/main.4c2fd5ec.js.map"
   },
   "entrypoints": [
     "static/css/main.d265e56e.css",
-    "static/js/main.00b85344.js"
+    "static/js/main.4c2fd5ec.js"
   ]
 }
