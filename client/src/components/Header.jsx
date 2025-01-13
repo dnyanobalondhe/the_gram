@@ -8,7 +8,7 @@ import { ReactComponent as NewPostIcon } from "../images/Header/Create.svg";
 import { ReactComponent as ActiveNewPostIcon } from "../images/Header/Create.svg";
 
 import { ReactComponent as ActiveSavePostIcon } from "../images/Header/Heart-fill.svg";
-import { ReactComponent as SavePostIcon } from "../images/Header/Heart.svg";
+import { ReactComponent as SavePostIcon } from "../images/save.svg";
 
 import React, { useState } from "react";
 import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
